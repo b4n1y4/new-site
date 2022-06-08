@@ -121,7 +121,7 @@ export default [
 
   {
     Name: "0x05",
-    URL: "",
+    URL: "/links",
     icon: <FaLink />,
     Color: "#ffb142",
     Text_Color: "#ffffff",
