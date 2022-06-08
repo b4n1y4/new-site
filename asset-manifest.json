@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/new-site/static/css/main.24676c00.css",
+    "main.js": "/new-site/static/js/main.60a1af32.js",
+    "static/media/aas.jpg": "/new-site/static/media/aas.904b24d58fd4715e5765.jpg",
+    "static/media/vy.jpg": "/new-site/static/media/vy.13e142fa292222ea1128.jpg",
+    "static/media/AnS.jpg": "/new-site/static/media/AnS.51de7cdb1bfa2c75ded7.jpg",
+    "static/media/ka.png": "/new-site/static/media/ka.52996998134ca6f0acc4.png",
+    "static/media/ss.png": "/new-site/static/media/ss.e525ba4e67c01a71e3e4.png",
+    "static/media/pg.png": "/new-site/static/media/pg.a4ce4957d24da42c9f38.png",
+    "static/media/sm.png": "/new-site/static/media/sm.3fc06c2060ce385faa33.png",
+    "static/media/sw.png": "/new-site/static/media/sw.70e5ce302d02c9e7eabb.png",
+    "static/media/MK.jpg": "/new-site/static/media/MK.a5f5fec89c8a682d574f.jpg",
+    "static/media/ash.png": "/new-site/static/media/ash.64eb91954b9ed8485fc1.png",
+    "static/media/Anms.png": "/new-site/static/media/Anms.2245fb254ba18ae79c2c.png",
+    "static/media/bj.jpg": "/new-site/static/media/bj.ef31b3f775614670dcaa.jpg",
+    "static/media/ay.png": "/new-site/static/media/ay.09bab68e647b428ae10d.png",
+    "static/media/HT.jpeg": "/new-site/static/media/HT.80e64d7abc22520cc081.jpeg",
+    "static/media/MJ.png": "/new-site/static/media/MJ.72a526d9741e7ed12f6c.png",
+    "static/media/mm.jpg": "/new-site/static/media/mm.844dfbd833ae2c715cab.jpg",
+    "static/media/AM.jpg": "/new-site/static/media/AM.f3d1c12de8d171b15282.jpg",
+    "static/media/logo.png": "/new-site/static/media/logo.2d82c270065ef073b600.png",
+    "static/media/HS.png": "/new-site/static/media/HS.c04fe6ea07ad322deba4.png",
+    "static/media/TX.webp": "/new-site/static/media/TX.5c60b43858407993f9eb.webp",
+    "static/media/AN.jpg": "/new-site/static/media/AN.64879434d5d0c5d4c153.jpg",
+    "static/media/AS.jpg": "/new-site/static/media/AS.5b86fb8972bc595a4ae1.jpg",
+    "index.html": "/new-site/index.html",
+    "main.24676c00.css.map": "/new-site/static/css/main.24676c00.css.map",
+    "main.60a1af32.js.map": "/new-site/static/js/main.60a1af32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24676c00.css",
+    "static/js/main.60a1af32.js"
+  ]
+}
