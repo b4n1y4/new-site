@@ -20,6 +20,7 @@ export default [
     URL: "https://www.facebook.com/dc9111",
     Color: "#3b5998",
     icon: <FaFacebookF />,
+    Text_Color: "#fff",
   },
 
   {
@@ -27,6 +28,7 @@ export default [
     URL: "https://www.instagram.com/dc_9111",
     Color: "#DD2A7B",
     icon: <FaInstagram />,
+    Text_Color: "#fff",
   },
 
   {
@@ -34,6 +36,7 @@ export default [
     URL: "https://twitter.com/dc_9111",
     Color: "#1DA1F2",
     icon: <FaTwitter />,
+    Text_Color: "#fff",
   },
 
   {
@@ -41,6 +44,7 @@ export default [
     URL: "https://www.linkedin.com/company/dc-9111",
     Color: "#2867B2",
     icon: <FaLinkedinIn />,
+    Text_Color: "#fff",
   },
 
   {
@@ -48,6 +52,7 @@ export default [
     URL: "https://www.youtube.com/channel/UCpHngVxoYmSBG5Yp2An3bTQ",
     Color: "#ff0000",
     icon: <FaYoutube />,
+    Text_Color: "#fff",
   },
 
   {
@@ -55,6 +60,7 @@ export default [
     URL: "http://github.com/dc-9111",
     Color: "#6e5494",
     icon: <FaGithub />,
+    Text_Color: "#fff",
   },
 
   {
@@ -78,6 +84,7 @@ export default [
     URL: "https://m.me/dc_9111",
     Color: "#006AFF",
     icon: <FaFacebookMessenger />,
+    Text_Color: "#fff",
   },
 
   {
@@ -113,8 +120,8 @@ export default [
   },
 
   {
-    Name: "0x04",
-    URL: "https://forms.gle/Gfga3VEtqPGUL4jB6",
+    Name: "0x05",
+    URL: "",
     icon: <FaLink />,
     Color: "#ffb142",
     Text_Color: "#ffffff",

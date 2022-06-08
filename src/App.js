@@ -22,7 +22,6 @@ function App() {
             <Route path="/links" element={<Links />} />
           </Routes>
         </div>
-        <Footer />
       </Router>
     </>
   );

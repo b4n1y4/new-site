@@ -292,3 +292,31 @@ footer {
 .title.f {
   margin-top: 2rem;
 }
+
+.links {
+  width: 100%;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.link {
+  width: 25%;
+  min-width: 225px;
+  padding: 1rem;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: transform 0.2s ease-in, opacity 0.2s ease-in;
+}
+
+.link:hover {
+  transform: scale(1.05);
+  opacity: 0.85;
+}
