@@ -11,7 +11,6 @@ import team from "./team";
 import Footer from "./Footer";
 
 const Home = () => {
-  console.log(team);
   return (
     <>
       <div className="page-content">
@@ -22,22 +21,25 @@ const Home = () => {
         <section className="page-section">
           <h1 className="section-title title">DEF CON Delhi Group</h1>
           <p className="section-text">
-            DC9111 is the local chapter of DEF CON Conference held every year in
-            Las Vegas. We are based in the country capital New Delhi. We highly
-            endorse Programmers, Hackers, Techies and all sort of tech related
-            people to come up and showcase what they've got! So, let's meet
-            soon!
+            DEF CON Delhi Group a.k.a <strong>DC9111</strong> is the local
+            chapter of DEF CON Conference held every year in Las Vegas. We are
+            based in the country capital New Delhi. We highly endorse
+            programmers, hackers, techies and all sort of tech related people
+            and encourage them to come up and showcase what they've got! So,
+            let's meet soon!
           </p>
         </section>
         <section className="page-section">
           <h1 className="section-title title">0x05</h1>
           <p className="section-text">
             DEF CON Delhi Group happens to be hosting India's biggest non profit
-            FREE FOR ALL hacker events. This year in the DC9111 0x04 SAFE MODE
-            Event, the audience will get to level up yet again! Listen to the
-            top notch speakers on some of the hot topics in the cyber security
-            domain and enjoy the CTF hosted by us from the comfort from your
-            home.
+            <strong> FREE FOR ALL</strong> hacker events each year. This year in
+            the DC9111 <strong>0x05</strong> offline event, the audience will
+            get to level up yet again and that too in person! Listen to the top
+            notch speakers speak on some of the hottest topics in the Cyber
+            Security domain, enjoy FREE trainings and the CTF hosted by us. This
+            year our main goal will be to provide that in person hacker meetup
+            experience to all those who haven't yet experienced the same before.
           </p>
         </section>
         <a href="https://defcon9111.org" className="register nav-link">
