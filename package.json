@@ -1,7 +1,7 @@
 {
   "name": "new-site",
   "version": "0.1.0",
-  "homepage": "https://dc-9111.github.io",
+  "homepage": "https://dc-9111.github.io/new-site",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

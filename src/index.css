@@ -9,8 +9,12 @@ body {
   font-family: "Share Tech Mono", sans-serif;
   font-size: 12px;
   background-color: #111;
-  width: 100%;
+  /* width: 100%; */
   overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
 }
 
 header {
@@ -218,7 +222,7 @@ footer {
 
 @media screen and (max-width: 850px) {
   body {
-    width: 100vw;
+    /* width: 100vw; */
     overflow-x: hidden;
   }
   .logo {
@@ -242,7 +246,7 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    width: 100%;
+    width: 100vw;
     height: calc(100vh - 80%);
   }
   .menu-toggle-btn {
@@ -262,13 +266,13 @@ footer {
     color: #fff;
   }
   .menu-open {
-    transition: transform 0.25s ease-in;
+    transition: transform 0.25s ease-out;
     transform: translateX(0);
     z-index: -1;
   }
   .menu-close {
-    transition: transform 0.25s ease-in;
-    transform: translateX(100%);
+    transition: transform 0.25s ease-out;
+    transform: translateX(-100%);
   }
 }
 
